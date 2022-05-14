@@ -27,7 +27,7 @@ Welcome! I'm Bryce White | <img align="center" height="18px" src="https://wakati
 <hr/>
 
 - 🔭 I’m currently looking for new projects to work on
-- 🌱 I’m currently learning Postgres and Python
+- 🌱 I’m currently sharpening my full stack skills (SQL ssms, .NET, C#, javascript, react.js,)
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
