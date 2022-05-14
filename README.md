@@ -5,7 +5,7 @@ Welcome! I'm Bryce White | <img align="center" height="18px" src="https://wakati
 
 <div>
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Bwhitehorse&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=8&theme=radical"/>
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bwhitehorse&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block; "><br>
@@ -26,11 +26,11 @@ Welcome! I'm Bryce White | <img align="center" height="18px" src="https://wakati
 </div>
 <hr/>
 
-- 🔭 I’m currently working on Interrogas
+- 🔭 I’m currently looking for new projects to work on
 - 🌱 I’m currently learning Postgres and Python
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
-- 📫 How to reach me: https://www.linkedin.com/in/vannarathong/
+- 📫 How to reach me: https://www.linkedin.com/in/Bwhitehorse/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning and working on projects
